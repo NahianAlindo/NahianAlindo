@@ -5,7 +5,7 @@
 <!--
 **NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 🔭 I’m currently working on Sentiment Analysis from audiovisual
 - 🌱 I’m currently learning Aspect Extraction and Opinion Mining using Deep Learning
