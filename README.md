@@ -11,10 +11,10 @@
 - 🌱 I’m currently learning Aspect Extraction and Opinion Mining using Deep Learning
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Aspect extraction
-- 💬 Ask me about Programming, Machine Learnin, Tech or Music
+- 💬 Ask me about <b>Programming, Machine Learning, Tech or Music</b>
 <!- -->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a singer and also a guitarist <br>
+- ⚡ Fun fact: I am a singer and also a guitarist.<br>
 - 📫 How to reach me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahian-rifaat-15713b138/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian_rifaat" height="30" width="30" />
@@ -38,7 +38,6 @@
 <hr>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tf" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/pytorch.svg" alt="pytorch" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
