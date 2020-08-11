@@ -1,4 +1,4 @@
-### Hi there!!! Nahian Rifaat here!!!
+### Hi there!!! Nahian Rifaat here!!!✨✨
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NahianAlindo&show_icons=true"/>
 
@@ -7,13 +7,11 @@
 -->
 
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- 💬 Ask me about <b>Programming, Machine Learning, Tech or Music.</b>
 - 🔭 I’m currently working on Sentiment Analysis from audiovisual
 - 🌱 I’m currently learning Aspect Extraction and Opinion Mining using Deep Learning
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Aspect extraction
-- 💬 Ask me about <b>Programming, Machine Learning, Tech or Music</b>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a singer and also a guitarist.<br>
 - 📫 How to reach me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahian-rifaat-15713b138/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian_rifaat" height="30" width="30" />
