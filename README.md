@@ -12,7 +12,6 @@
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Aspect extraction
 - 💬 Ask me about <b>Programming, Machine Learning, Tech or Music</b>
-<!- -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a singer and also a guitarist.<br>
 - 📫 How to reach me: 
