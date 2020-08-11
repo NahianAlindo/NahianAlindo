@@ -33,3 +33,5 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/nahian_rifaat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahian_rifaat" height="30" width="30" />
     </a>
 </p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianAlindo)](https://github.com/NahianAlindo/github-readme-stats) -->
