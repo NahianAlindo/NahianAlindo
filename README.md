@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programming, Machine Learnin, Tech or Music
 <!- -->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a singer and also a guitarist
--- 📫 How to reach me: 
+- ⚡ Fun fact: I am a singer and also a guitarist <br>
+- 📫 How to reach me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahian-rifaat-15713b138/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian_rifaat" height="30" width="30" />
     </a>
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
   
 <img align='right' src="https://komarev.com/ghpvc/?username=NahianAlindo" alt="NahianAlindo" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianAlindo)](https://github.com/NahianAlindo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianAlindo)](https://github.com/NahianAlindo/github-readme-stats) -->
