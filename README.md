@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p>You can also <a href="nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
+<p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tf" width="20" height="20"/>
