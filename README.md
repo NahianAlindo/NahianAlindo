@@ -28,7 +28,7 @@
     <a href="https://www.instagram.com/nahian_rifaat_alindo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nahian_rifaat_alindo" height="30" width="30" />
     </a>
     <a href="https://twitter.com/nahian_rifaat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahian_rifaat" height="30" width="30" />
-    <a href="https://forum.arduino.cc/index.php?action=profile;area=forumprofile;u=1269867" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" alt="nahian_rifaat" height="30" width="30" />
+    <a href="https://forum.arduino.cc/index.php?action=profile;area=summary;u=1269867" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" alt="nahian_rifaat" height="30" width="30" />
     </a>
 </p>
 
