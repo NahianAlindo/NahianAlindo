@@ -42,8 +42,8 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
     <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="20" height="20"/>
-  <img src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="20" height="20"/>
+  <img src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" alt="nodejs" width="40" height="30"/>
+    <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="20" height="30"/>
   <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg" alt="android" width="20" height="20"/>
