@@ -35,7 +35,8 @@
 <p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" alt="cplusplus" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tf" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
@@ -45,8 +46,9 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" alt="arduino" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg" alt="android" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" alt="firebase" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg" alt="ms powerpoint" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
+ 
   
 <img align='right' src="https://komarev.com/ghpvc/?username=NahianAlindo" alt="NahianAlindo" /> </p>
 
