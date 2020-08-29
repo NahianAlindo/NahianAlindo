@@ -43,12 +43,12 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
     <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="20" height="20"/>
   <img src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" alt="nodejs" width="40" height="20"/>
-    <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="20" height="30"/>
-  <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="20" height="20"/>
+    <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="30" height="20"/>
+  <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="50" height="25"/>
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="25" height="20"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg" alt="android" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" alt="firebase" width="20" height="20"/>
-    <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="20" height="20" title='Git'/>
+    <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
  
