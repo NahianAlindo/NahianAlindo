@@ -34,7 +34,7 @@
 
 <p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" alt="cplusplus" width="20" height="20"/>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
@@ -51,5 +51,7 @@
  
   
 <img align='right' src="https://komarev.com/ghpvc/?username=NahianAlindo" alt="NahianAlindo" /> </p>
+
+<img alt="ISO C++ Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" decoding="async" width="150" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png 2x" data-file-width="306" data-file-height="344">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianAlindo)](https://github.com/NahianAlindo/github-readme-stats) -->
