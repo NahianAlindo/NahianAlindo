@@ -9,7 +9,7 @@
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 💬 Ask me about <b>Programming, Machine Learning, Tech or Music.</b>
 - 🔭 I’m currently working on Sentiment Analysis from audiovisual
-- 🌱 I’m currently learning Aspect Extraction and Opinion Mining using Deep Learning
+- 🌱 I’m currently learning gait analysis (walking pattern of humans) using computer vision, and also bioinformatics
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with Aspect extraction
 - 📫 How to reach me: 
