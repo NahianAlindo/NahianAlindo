@@ -34,11 +34,11 @@
 
 <p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
+<img src="https://github.com/prplx/svg-logos/blob/master/svg/html5.svg" alt="html5" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
     <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="20" height="20"/>
@@ -49,7 +49,7 @@
     <img src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" alt="android" width="20" height="20"/>
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20" title='Linux'/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
  
   
