@@ -39,8 +39,8 @@
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
 <img src="https://github.com/prplx/svg-logos/blob/master/svg/html5.svg" alt="html5" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" alt="css3" width="20" height="20"/>
+ <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="20" height="20"/>
     <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="20" height="20"/>
   <img src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" alt="nodejs" width="40" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="30" height="20"/>
