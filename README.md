@@ -7,11 +7,11 @@
 -->
 
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
-- 💬 Ask me about <b>Programming, Machine Learning, Tech or Music.</b>
-- 🔭 I’m currently working on Sentiment Analysis from audiovisual
-- 🌱 I’m currently learning gait analysis (walking pattern of humans) using computer vision, and also bioinformatics
+- 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
+- 🔭 I’m currently working on Gait Analysis (walking pattern of humans) using Deep Learning, and Computer Vision
+- 🌱 I’m currently learning Web Technologies, and also Bioinformatics
 <!--- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with Aspect extraction
+<!--- 🤔 I’m looking for help with Aspect extraction -->
 - 📫 How to reach me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahian-rifaat-15713b138/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian_rifaat" height="30" width="30" />
