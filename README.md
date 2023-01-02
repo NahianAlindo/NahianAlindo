@@ -6,10 +6,11 @@
 **NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- 
+- Studied Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
-- 🔭 I’m currently working on Gait Analysis (walking pattern of humans) using Deep Learning, and Computer Vision
-- 🌱 I’m currently learning Web Technologies, and also Bioinformatics
+- 🔭 I’m currently developing web applications at Nascenia.
+- 🌱 I’m currently learning Ruby on Rails.
 <!--- 👯 I’m looking to collaborate on -->
 <!--- 🤔 I’m looking for help with Aspect extraction -->
 - 📫 How to reach me: 
