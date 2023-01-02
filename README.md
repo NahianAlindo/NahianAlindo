@@ -6,7 +6,7 @@
 **NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 
+- Currently employed as a Junior Software Engineer at Nascenia.
 - Studied Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
 - 🔭 I’m currently developing web applications at Nascenia.
