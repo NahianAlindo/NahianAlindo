@@ -36,7 +36,6 @@
 <p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="20" height="20"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" alt="c" width="20" height="20" title='C'/>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/HTML5.svg" alt="html5" width="20" height="20"/>
