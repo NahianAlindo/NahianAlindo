@@ -6,8 +6,9 @@
 **NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - pursuing a Master's Degree in Computer Science at Ontario Tech University, Ontario, Canada specializing in automated bug detection using Machine Learning until 2027.
-- Previously employed as a Software Engineer at Nascenia till April 2025. 
-- Studied Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- Previously employed as a Software Engineer at Nascenia till April 2025.
+- Previously employed as an AI Research Assistant at MyMedicalHUB Corp. from October 2020 to October 2022.
+- Graduated in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
 - 🔭 I’m currently developing web applications at Nascenia.
 - 🌱 I’m currently working with Ruby on Rails, game development and machine learning.
